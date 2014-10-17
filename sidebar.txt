@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mei:home|Door43 (mei)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mei|d43-mei repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mei/archive/master.zip|d43-mei.zip]]
+
+**Recent Changes**
+{{changes>ns = mei}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mei|Ethnologue data]]
+
